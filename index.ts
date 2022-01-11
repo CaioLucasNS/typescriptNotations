@@ -1,1 +1,2 @@
-console.log('olá');
+const nome = 'Caio'
+const sobrenome = "Lucas"
