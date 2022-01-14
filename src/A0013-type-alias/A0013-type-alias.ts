@@ -12,7 +12,7 @@ type CorPreferida = CorRGB | CorCMYK;
 const pessoa: Pessoa = {
   idade: 30,
   nome: 'Luiz',
-  salario: 200_000,
+  salario: 200_000, // 200000
 };
 
 export function setCorPreferida(pessoa: Pessoa, cor: CorPreferida): Pessoa {
